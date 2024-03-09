@@ -21,7 +21,7 @@
 - 🌍 I'm based in Tuzla, Bosnia and Herzegovina.
 - 🎓 Currently a student at IPIA.
 - 💼 As a student, I'm dedicated to learning and exploring new technologies.
-- 🌱 I'm enthusiastic about Android and Database design and implementation.
+- 🌱 I'm enthusiastic about Android development and Data analysis.
 - 🤝 I'm open to collaborations and contributions.
 
 
@@ -35,10 +35,11 @@
 
 Here are some of the technologies and tools I'm familiar with:
 
-- Java
-- C++
 - Python
+- Kotlin
 - SQL
+- Android studio
+- Tableau
 
 
 Let's connect and make things happen together! 😄
